@@ -1,6 +1,6 @@
 package com.example.myapplication.model
 
-class Cores {
+class Cores
     var core: String? = null
     var flight: String? = null
     var landing_type: String? = null
